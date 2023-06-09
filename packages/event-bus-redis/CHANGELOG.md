@@ -1,5 +1,13 @@
 # @medusajs/event-bus-redis
 
+## 1.8.8
+
+### Patch Changes
+
+- Updated dependencies [[`14c0f62f8`](https://github.com/medusajs/medusa/commit/14c0f62f84704a4c87beff3daaff60a52f5c88b8)]:
+  - @medusajs/modules-sdk@1.8.8
+  - @medusajs/utils@1.9.1
+
 ## 1.8.7
 
 ### Patch Changes

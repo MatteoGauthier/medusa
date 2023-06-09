@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.3.9
+
+### Patch Changes
+
+- [#4160](https://github.com/medusajs/medusa/pull/4160) [`572280e1d`](https://github.com/medusajs/medusa/commit/572280e1d1deb1d01660168b453ad397fa382a79) Thanks [@pKorsholm](https://github.com/pKorsholm)! - fix(medusa-plugin-bright-pearl): update order creation to include sales channel brightpearl id where possible
+
 ## 1.3.8
 
 ### Patch Changes

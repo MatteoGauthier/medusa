@@ -1,5 +1,11 @@
 # @medusajs/utils
 
+## 1.9.1
+
+### Patch Changes
+
+- [#4161](https://github.com/medusajs/medusa/pull/4161) [`14c0f62f8`](https://github.com/medusajs/medusa/commit/14c0f62f84704a4c87beff3daaff60a52f5c88b8) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(product): Experimental product module
+
 ## 1.9.0
 
 ### Minor Changes

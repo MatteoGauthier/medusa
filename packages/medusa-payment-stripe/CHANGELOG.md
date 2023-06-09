@@ -1,5 +1,12 @@
 # Change Log
 
+## 6.0.1
+
+### Patch Changes
+
+- Updated dependencies [[`79cca2ab8`](https://github.com/medusajs/medusa/commit/79cca2ab809b77606e65706c19f9fce37b174365), [`d76ba0cd2`](https://github.com/medusajs/medusa/commit/d76ba0cd29694c2e31f9f89992a9fbc14659c1ae), [`eadf13cb2`](https://github.com/medusajs/medusa/commit/eadf13cb2101b2b12753428df0fb775f828cd9ac), [`2db6a1d40`](https://github.com/medusajs/medusa/commit/2db6a1d4076fb84248149d9e1388d3e6ca81ab70), [`109096465`](https://github.com/medusajs/medusa/commit/109096465dacdc5879a816a56ef4f2d7a9927e1a), [`af2dc4f75`](https://github.com/medusajs/medusa/commit/af2dc4f75a2ed109495ca83b1bc6ae6941c2f716), [`8676ee7a2`](https://github.com/medusajs/medusa/commit/8676ee7a2e3da9fecc2e81db3ab12693d02f63f4), [`260dc55b6`](https://github.com/medusajs/medusa/commit/260dc55b6f122351f8e1d75a4b5ca797745735be)]:
+  - @medusajs/medusa@1.12.1
+
 ## 6.0.0
 
 ### Patch Changes

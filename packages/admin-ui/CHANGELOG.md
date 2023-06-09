@@ -1,5 +1,20 @@
 # @medusajs/admin-ui
 
+## 1.9.0
+
+### Minor Changes
+
+- [#4115](https://github.com/medusajs/medusa/pull/4115) [`79cca2ab8`](https://github.com/medusajs/medusa/commit/79cca2ab809b77606e65706c19f9fce37b174365) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(admin-ui): Add filtering capabilities for reservations view
+
+### Patch Changes
+
+- [#4231](https://github.com/medusajs/medusa/pull/4231) [`1bd2e7a5b`](https://github.com/medusajs/medusa/commit/1bd2e7a5be4aeb15ac15f5f0e70dc37a6dfaa86f) Thanks [@fPolic](https://github.com/fPolic)! - fix(admin-ui): prevent Timeline flickering while loading
+
+- [#4133](https://github.com/medusajs/medusa/pull/4133) [`869628bf4`](https://github.com/medusajs/medusa/commit/869628bf4c50f93375bd32946cd0605de3d981cd) Thanks [@pKorsholm](https://github.com/pKorsholm)! - feat(admin-ui): rename allocation to reservation
+
+- Updated dependencies [[`79cca2ab8`](https://github.com/medusajs/medusa/commit/79cca2ab809b77606e65706c19f9fce37b174365)]:
+  - medusa-react@9.0.1
+
 ## 1.8.7
 
 ### Patch Changes

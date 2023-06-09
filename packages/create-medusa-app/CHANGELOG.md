@@ -1,5 +1,15 @@
 # Change Log
 
+## 0.1.0
+
+### Minor Changes
+
+- [#4215](https://github.com/medusajs/medusa/pull/4215) [`c04d93cd0`](https://github.com/medusajs/medusa/commit/c04d93cd041a0080af46c6068d6cf4724600af02) Thanks [@shahednasser](https://github.com/shahednasser)! - feat(create-medusa-app): update command for a better onboarding experience
+
+### Patch Changes
+
+- [#4247](https://github.com/medusajs/medusa/pull/4247) [`4b5b7b514`](https://github.com/medusajs/medusa/commit/4b5b7b51483bae8996235a37e75c0671f9e2994f) Thanks [@shahednasser](https://github.com/shahednasser)! - fix(create-medusa-app): remove seed command from create-medusa-app and improve success message
+
 ## 0.0.10
 
 ### Patch Changes

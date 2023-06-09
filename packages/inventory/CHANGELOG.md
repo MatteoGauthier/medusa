@@ -1,5 +1,17 @@
 # @medusajs/inventory
 
+## 1.9.1
+
+### Patch Changes
+
+- [#4211](https://github.com/medusajs/medusa/pull/4211) [`d76ba0cd2`](https://github.com/medusajs/medusa/commit/d76ba0cd29694c2e31f9f89992a9fbc14659c1ae) Thanks [@adrien2p](https://github.com/adrien2p)! - fix(medusa): Order edit missing transaction when consuming the inventory module
+
+- [#4232](https://github.com/medusajs/medusa/pull/4232) [`af2dc4f75`](https://github.com/medusajs/medusa/commit/af2dc4f75a2ed109495ca83b1bc6ae6941c2f716) Thanks [@adrien2p](https://github.com/adrien2p)! - feat(medusa, inventory, stock-location): Remove unnecessary transaction usage in the modules and list products end points
+
+- Updated dependencies [[`14c0f62f8`](https://github.com/medusajs/medusa/commit/14c0f62f84704a4c87beff3daaff60a52f5c88b8)]:
+  - @medusajs/modules-sdk@1.8.8
+  - @medusajs/utils@1.9.1
+
 ## 1.9.0
 
 ### Minor Changes
